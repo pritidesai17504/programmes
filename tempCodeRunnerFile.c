@@ -1,0 +1,4 @@
+ else
+        {
+            num=array[j];
+        }
